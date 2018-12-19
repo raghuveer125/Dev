@@ -1,2 +1,1 @@
-echo
-"Hello it is wase of time"
+echo "Hello it is wase of time"
